@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- cover_ colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+	<color name="purple_200">#FFBB86FC</color>
+	<color name="purple_500">#FF6200EE</color>
+	<color name="purple_700">#FF3700B3</color>
+	<color name="teal_200">#FF03DAC5</color>
+	<color name="teal_700">#FF018786</color>
+	<color name="black">#FF000000</color>
+	<color name="white">#FFFFFFFF</color>
+
+	<color name="_bg__cover__ek2_color">#FBF5F2</color>
+	<color name="_rectangle_5_color">#EB9F4A</color>
+	<color name="go_color">#FFFFFF</color>
+	<color name="password_ek1_color">#CF9D8B</color>
+	<color name="forgot_password__color">#9B4D32</color>
+	<color name="or_sign_in_with_color">#CF9C8A</color>
+	<color name="hope__up__color">#77B29F</color>
+	<color name="indicator_color">#FF9500</color>
+	<color name="highlights_color">#FFAB01</color>
+	<color name="ellipse_2_color">#B18CFE</color>
+	<color name="ellipse_3_color">#D8C9FE</color>
+	<color name="ellipse_2_ek1_color">#5ED1EA</color>
+	<color name="ellipse_3_ek1_color">#C3FFF1</color>
+	<color name="recent_ek1_color">#6A6A70</color>
+	<color name="text_color">#635454</color>
+	<color name="new_games_ek1_color">#7C7C86</color>
+	<color name="subitle_color">#E5E5EA</color>
+	<color name="rectangle_6_color">#C4C4C4</color>
+	<color name="complete_other_games_to_unlock_color">#3B3B3B</color>
+	<color name="discover_ek1_color">#69300D</color>
+	<color name="_1432_xp_color">#9C5043</color>
+	<color name="_3_color">#E77A00</color>
+	<color name="_7_color">#DC3F00</color>
+	<color name="_22_color">#504747</color>
+	<color name="rectangle_7_ek1_color">#ffffff</color>
+	<color name="say_no__go_and_tell_color">#4F4F4F</color>
+	<color name="be_prepared_to_say_what_s_right_and_to_tell_what_s_wrong__color">#6E6060</color>
+	<color name="subtitle_color">#6F6F6F</color>
+	<color name="back_color">#E5DEEA</color>
+	<color name="_bg__game_content_ek2_color">#F2EDF8</color>
+	<color name="ellipse_17_color">#DEBDFF</color>
+	<color name="_bg__game_content_1_ek2_color">#EDF6F8</color>
+	<color name="ellipse_17_ek1_color">#BDDFFF</color>
+	<color name="_bg__resuld_page_ek2_color">#F3EDF9</color>
+	<color name="ellipse_20_color">#ECD9FF</color>
+	<color name="ellipse_18_color">#CE9EFF</color>
+</resources>
